@@ -103,7 +103,7 @@ header  div{
   
 }
 
-/footer div h5{float: left;}/
+footer div h5{float: left;}
 .col_white_amrc { color:#FFF;text-decoration: underline;text-decoration-color: aquamarine;text-decoration-thickness: 3px ;text-align: left;}  
 .about p{ text-align: left;}  
 footer { width:100%; background-color:#1f2121; min-height:200px; padding:10px 0px 25px 0px ;}
